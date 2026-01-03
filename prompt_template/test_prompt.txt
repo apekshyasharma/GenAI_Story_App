@@ -1,0 +1,6 @@
+{
+  "character": "A brave young dragon named Sparkle",
+  "setting": "A magical forest filled with glowing mushrooms",
+  "theme": "Friendship and overcoming fears",
+  "age_group": "Children (8-12 years)"
+}
